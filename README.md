@@ -6,6 +6,6 @@
  <div>
    <a href="https://github.com/CampsGui">
    <img height="170em" align="center" width="45%"src="https://github-readme-stats.vercel.app/api?username=CampsGui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="170em" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CampsGui&layout=compact&langs_count=8&theme=radical"/>
+   <img height="170em" align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CampsGui&layout=compact&langs_count=8&theme=radical"/>
 </div>
 <br>
