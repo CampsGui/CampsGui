@@ -1,6 +1,6 @@
 ### Olá! Eu sou Guilherme Alves e Bem Vindo(a) ao meu perfil 👋
 
-- Atualmente Cursando Análise e Desenvolvimento de Sistemas na **FATEC de Ferraz de Vasconcelos**
+- Atualmente Cursando Análise e Desenvolvimento de Sistemas na **FATEC - Ferraz de Vasconcelos**
 
 <hr>
  <div>
