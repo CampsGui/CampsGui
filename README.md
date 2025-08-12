@@ -1,14 +1,15 @@
 ### Olá! Eu sou Guilherme Alves e Bem Vindo(a) ao meu perfil 👋
 
 - Atualmente Cursando Análise e Desenvolvimento de Sistemas na **FATEC - Ferraz de Vasconcelos**
-## Disciplinas em curso - 3º Semestre:
-- Programação para WEB
-- Estrutura de Dados
-- Banco de Dados
-- Engenharia de Software
-- Interação Humano Computador
-- Planejamento Financeiro
-- Projeto Integrador III
+## Disciplinas em curso - 4º Semestre:
+- Sistemas Operacionais
+- Desenvolvimento de Sistemas
+- Laboratório de Banco de Dados
+- Engenharia de Software III
+- Gestão de Equipes
+- Programação para Dispositivos Móveis I
+- Projeto Integrador IV
+- Metodologia da Pesquisa Cientifico Tecnológica
 
 <hr>
  <div>
